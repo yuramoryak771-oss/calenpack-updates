@@ -1,5 +1,7 @@
 {
   "versionCode": 2,
   "apkUrl": "https://yuramoryak771-oss.github.io/calenpack-updates/calenpack.apk",
-  "releaseNotes": "- Добавлен новый шрифт интерфейса\n- Теперь можно делиться заметками!"
+  "releaseNotes": "- Добавлен новый шрифт интерфейса\n- Теперь можно делиться заметками!",
+  "releaseNotesUk": "- Додано новий шрифт інтерфейсу\n- Тепер можна ділитися нотатками!",
+  "releaseNotesEn": "- Added new interface font\n- Now you can share your notes!"
 }
