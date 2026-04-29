@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
+  "versionCode": 5,
   "apkUrl": "https://yuramoryak771-oss.github.io/calenpack-updates/calenpack.apk",
-  "releaseNotes": "- Добавлен новый шрифт интерфейса\n- Теперь можно делиться заметками!",
-  "releaseNotesUk": "- Додано новий шрифт інтерфейсу\n- Тепер можна ділитися нотатками!",
-  "releaseNotesEn": "- Added new interface font\n- Now you can share your notes!"
+  "releaseNotes": "✏️ Добавлено редактирование запланированных задач.\n✨ Добавлено стильное неоновое свечение для даты.\n🚀 Значительно улучшена плавность скроллинга заметок.",
+  "releaseNotesUk": "✏️ Додано можливість редагувати заплановані завдання.\n✨ Додано стильне неонове світіння для дати.\n🚀 Значно покращено плавність гортання нотаток.",
+  "releaseNotesEn": "✏️ Added the ability to edit scheduled tasks.\n✨ Added a stylish neon glow to the current date.\n🚀 Significantly improved scrolling performance for notes."
 }
